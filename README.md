@@ -6,4 +6,4 @@ For this project, we will be building a machine learning model to classify wheth
 # Files used
 We used the following dataset available on Kaggle to work on this project:
 
-[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud]
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
